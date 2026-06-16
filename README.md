@@ -26,11 +26,15 @@ If the target is:
 Some numbers are actually categories, for example a rating of 1, 2, 3.
 May be better characterized as a category / discrete variable.
 
-## Example + Your Notebook
+## Example Notebook + Your Notebook
 
 Keep the example notebook as it is.
 Either copy it or use it to build a new notebook that ends in _yourname.
 See [docs/your-files.md] for more.
+
+Links:
+
+- [ml_01_case.ipynb](notebooks/ml_01_case.ipynb)
 
 ## Working Files
 
@@ -186,7 +190,8 @@ In your custom project, follow this example, but
 
 Remove unnecessary instructional comments in your custom files.
 
-Update figures to present interesting results from your custom project:
+These are from the example app used to test the .venv/.
+If possible, replace these to present interesting results from your custom project:
 
 ![Provide a Useful Caption](./docs/images/Figure_1.png)
 

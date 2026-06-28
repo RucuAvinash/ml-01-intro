@@ -57,7 +57,11 @@ to complete:
 2. Phase 2. **Change Authorship**
 3. Phase 3. **Read & Understand**
 4. Phase 4. **Modify**
-5. Phase 5. **Apply**
+5. Phase 5. **Apply** <mark>(optional for Module 1)</mark>
+
+**Completing Phases 1-4 is the goal for Module 1.**
+Phase 5 is optional in Module 1.
+If your environment is working well and you still have some time, you might try it.
 
 ## Challenges
 

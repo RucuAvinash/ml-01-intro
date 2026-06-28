@@ -35,11 +35,12 @@ explain what is different and why the change matters.
 
 Was it easy, or surprisingly challenging and why do you think so?
 
-## Phase 5. Custom Project
+## Phase 5. Custom Project (OPTIONAL in Module 1)
 
-Describe your custom project and how you made your modeling decisions.
+Describe your custom project.
 
-Be specific about what changed from the example project.
+In Module 1, this includes choosing a dataset, identifying a target,
+and explaining what kind of ML problem it represents.
 
 ### Basis and Data
 

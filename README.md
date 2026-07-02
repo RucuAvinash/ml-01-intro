@@ -34,7 +34,7 @@ See [docs/your-files.md] for more.
 
 Links:
 
-- [ml_01_case.ipynb](notebooks/ml_01_case.ipynb)
+- [ml_01_rucu.ipynb](notebooks/ml_01_rucu.ipynb)
 
 ## Working Files
 
@@ -63,26 +63,7 @@ to complete:
 Phase 5 is optional in Module 1.
 If your environment is working well and you still have some time, you might try it.
 
-## Challenges
 
-Challenges are expected.
-Sometimes instructions may not quite match your operating system.
-When issues occur, share screenshots, error messages, and details about what you tried.
-Working through issues is part of implementing professional projects.
-
-## Success
-
-After completing Phase 1. **Start & Run**, you'll have your own GitHub project,
-with the example notebook executed and committed,
-and running the example module will print out:
-
-```shell
-========================
-Executed successfully!
-========================
-```
-
-A new file `project.log` will appear in the root project folder.
 
 ## Command Reference
 
@@ -156,27 +137,6 @@ You accidentally started Python interactive mode.
 It happens.
 Press `Ctrl+c` (both keys together) or `Ctrl+Z` then `Enter` on Windows.
 
-## Example Output (Can Remove this Section after You Verify)
-
-```shell
-| INFO | ML | Summarize workflow........
-| INFO | ML | ========================
-| INFO | ML | SUMMARY
-| INFO | ML | ========================
-| INFO | ML | Dataset: hours_scores_case
-| INFO | ML | Original rows: 10
-| INFO | ML | Clean rows: 10
-| INFO | ML | Features: ['hours_studied', 'practice_quizzes', 'attendance_pct', 'sleep_hours', 'prior_score']
-| INFO | ML | Target: score
-| INFO | ML | ----- in a script, call plt.show() once at the end to display all charts -----
-| INFO | ML | ----- in a script, CLOSE the chart windows with the close button to CONTINUE -----
-| INFO | ML | Workflow complete
-| INFO | ML | IMPORTANT: This script creates chart windows.
-| INFO | ML | Close chart windows and terminate this process with CTRL+c as needed.
-| INFO | ML | ========================
-| INFO | ML | Executed successfully!
-| INFO | ML | ========================
-```
 
 ## Findings and Visuals
 
@@ -198,13 +158,20 @@ Remove unnecessary instructional comments in your custom files.
 These are from the example app used to test the .venv/.
 If possible, replace these to present interesting results from your custom project:
 
-![Provide a Useful Caption](./docs/images/Figure_1.png)
+![Provide a Useful Caption] ![alt text](ML_Figure1.jpeg)
 
-![Provide a Useful Caption](./docs/images/Figure_2.png)
+![Provide a Useful Caption]![alt text](ML_Figure2.jpeg)
 
+![Provide a Useful Caption]![alt text](ML_Figure3.jpeg)
 ## Project Documentation
 
 Additional project instructions, terms, and notes:
+Made Technical modification to the .ipynb file- changed the classification model to a regression model by changing the target column to numeric field . Ran all the cells and analyzed the results changed from classification to regression model.
+Applied Skills to a new Problem by adding new data to the existing hours_scores data and predicting the model after running the python file with the following command
+uv run python -m mlstudio.app_rucu
+Ran the customized python file using the below command:
+uv run python -m mlstudio.app_rucu
+
 
 [docs/index.md](docs/index.md)
 

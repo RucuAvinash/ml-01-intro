@@ -5,7 +5,7 @@ This folder contains raw data files for use in this project.
 Raw data should not be modified.
 Keep original files as received so analysis can be reproduced from the source.
 
-## hours_scores_case.csv
+## hours_scores_rucu.csv
 
 A small synthetic dataset used in the example project.
 Ten students with study hours, quiz scores, attendance, sleep, and a final score.

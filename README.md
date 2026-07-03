@@ -166,11 +166,12 @@ If possible, replace these to present interesting results from your custom proje
 ## Project Documentation
 
 Additional project instructions, terms, and notes:
-Made Technical modification to the .ipynb file- changed the classification model to a regression model by changing the target column to numeric field . Ran all the cells and analyzed the results changed from classification to regression model.
+Made Technical modification to the .ipynb file- changed the classification model to a regression model by changing the target column to numeric field .
+Ran all the cells and analyzed the results changed from classification to regression model.
 Applied Skills to a new Problem by adding new data to the existing hours_scores data and predicting the model after running the python file with the following command
-uv run python -m mlstudio.app_rucu
+`uv run python -m mlstudio.app_rucu`
 Ran the customized python file using the below command:
-uv run python -m mlstudio.app_rucu
+`uv run python -m mlstudio.app_rucu`
 
 
 [docs/index.md](docs/index.md)
